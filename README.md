@@ -1,4 +1,4 @@
 # Repository-Folder
-This is my first Git Repository.
+100 Day coding challenge
 <br>
 Auother - Aman Kumar
